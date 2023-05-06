@@ -1,0 +1,1 @@
+Go to the js file, and go to index.js, press CTRL+F and searching "itslearning.tk" change that link to your replit link. with no "https://" in it, must have "www." if its a freenom link tho
