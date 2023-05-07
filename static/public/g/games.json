@@ -1,0 +1,112 @@
+[
+    {
+      "title": "N-Gon",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/n-gonimg.png",
+      "link": "/n-gon"
+    },
+    {
+      "title": "Idle Breakout",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
+      "link": "/outred.github.io-idle-breakout/"
+    },
+    {
+      "title": "Among Us",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
+      "link": "/g/among-us"
+    },
+    {
+      "title": "1v1.lol",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
+      "link": "/g/1v1lol"
+    },
+    {
+      "title": "Minecraft Java",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/minecraft.png",
+      "link": "/g/minecraft-18"
+    },
+    {
+      "title": "Krunker",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/krunker.png",
+      "link": "/g/krunker"
+    },
+    {
+        "title": "Zombs Royale",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png",
+        "link": "/g/zombs"
+      },
+      {
+        "title": "You're Jeff Bezos",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/jeffbezos.jpg",
+        "link": "/g/youarejeffbezos"
+      },
+      {
+        "title": "Tunnel Rush",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
+        "link": "/tunnel-rush"
+      },
+      {
+        "title": "Arena Scratch",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
+        "link": "/arena-scratch"
+      },
+      {
+        "title": "Flappy Bird",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/flappybird.png",
+        "link": "/flappy"
+      },
+      {
+        "title": "Slope",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
+        "link": "/Slope-Game"
+      },
+      {
+        "title": "Cookie Clicker",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/cookieclicker.png",
+        "link": "/Cookie-Clicker-Source-Code"
+      },
+      {
+        "title": "2048",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/2048_logo.svg.webp",
+        "link": "/2048"
+      },
+      {
+        "title": "Dino Game 3D",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/dino3d.webp",
+        "link": "/dino3d"
+      },
+      {
+        "title": "Worlds Hardest Game",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
+        "link": "/g/worlds-hardest-game"
+      },
+      {
+        "title": "Backrooms",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg",
+        "link": "/g/backrooms"
+      },
+      {
+        "title": "Paper.io 2",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg",
+        "link": "/g/paperio2"
+      },
+      {
+        "title": "CS Go Clicker",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
+        "link": "/g/csgo-clicker"
+      },
+      {
+        "title": "Shell Shockers",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png",
+        "link": "/g/shellshockers"
+      },
+      {
+        "title": "Storm the House 2",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg",
+        "link": "/g/stormthehouse2"
+      },
+      {
+        "title": "Super Mario 64",
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-mario-64/b/ba/Super-mario-64-1920x1080.jpg?width=640",
+        "link": "/games/sm64"
+      }
+  ]

@@ -10,6 +10,11 @@ body {
   min-height: 100vh;
 }
 
+a {
+  text-decoration: none;
+  color: #ffebeb;
+}
+
 .fa-magnifying-glass {
   color: white;
 }
@@ -175,3 +180,74 @@ footer a:hover {
   position: sticky;
   top: 0;
 }
+
+
+
+
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 16px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border: 4px solid transparent;
+  background-clip: content-box;
+  border-radius: 8px;
+  transition: .3s;
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+
+/* For games page! Do not delete! */
+.games {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 159px) !important;
+  justify-content: space-between;
+  grid-gap: 60px;
+  max-width: 1000px;
+  margin: 0px auto;
+}
+
+  .game {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #252525;
+    border-radius: 50px;
+    padding: 8px;
+    transition: .3s;
+    z-index: 0;
+    height: auto;
+    width: 200px;
+  }
+
+  .game:hover {
+    transform: scale(.95);
+    cursor: pointer;
+    background-color: #2a2a2a;
+    z-index: 1;
+  }
+
+  .game:active {
+    transform:scale(.98);
+  }
+
+  .game h2 {
+    color: black;
+  }
+  
+  .game img {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+  }
