@@ -42,52 +42,52 @@
     {
       "title": "Tunnel Rush",
       "image": "/img/tunnelrush.jpg",
-      "link": "tunnel-rush/"
+      "link": "/g/tunnel-rush/"
     },
     {
       "title": "Arena Scratch",
       "image": "/img/arena.png",
-      "link": "arena-scratch/"
+      "link": "/g/arena-scratch/"
     },
     {
       "title": "Flappy Bird",
       "image": "/img/flappybird.png",
-      "link": "flappy"
+      "link": "/g/flappy"
     },
     {
       "title": "Slope",
       "image": "/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
-      "link": "slope/"
+      "link": "/g/slope/"
     },
     {
       "title": "2048",
       "image": "/img/2048_logo.svg.webp",
-      "link": "2048/"
+      "link": "/g/2048/"
     },
     {
       "title": "Dino Game 3D",
       "image": "/img/dino3d.webp",
-      "link": "dino3d"
+      "link": "/g/dino3d"
     },
     {
       "title": "Worlds Hardest Game",
       "image": "/g/worlds-hardest-game/images/splash.jpg",
-      "link": "worlds-hardest-game/"
+      "link": "/g/worlds-hardest-game/"
     },
     {
       "title": "Backrooms",
       "image": "/img/backroomsimg.jpg",
-      "link": "backrooms/"
+      "link": "/g/backrooms/"
     },
     {
       "title": "Paper.io 2",
       "image": "/img/paper.jpg",
-      "link": "paperio2/"
+      "link": "/g/paperio2/"
     },
     {
       "title": "CS Go Clicker",
       "image": "/img/csgo-case-clicker.jpg",
-      "link": "csgo-clicker/"
+      "link": "/g/csgo-clicker/"
     },
     {
       "title": "Shell Shockers",
@@ -136,167 +136,167 @@
     },
     {
       "title": "Moto X3M",
-      "image": "/motox3m/splash.jpg",
-      "link": "motox3m/"
+      "image": "/g/motox3m/splash.jpg",
+      "link": "/g/motox3m/"
     },
     {
       "title": "Moto X3M Pool",
-      "image": "/motox3m-pool/splash.jpg",
-      "link": "motox3m-pool/"
+      "image": "/g/motox3m-pool/splash.jpg",
+      "link": "/g/motox3m-pool/"
     },
     {
       "title": "Moto X3M Spooky",
-      "image": "/motox3m-spooky/splash.jpeg",
-      "link": "motox3m-spooky/"
+      "image": "/g/motox3m-spooky/splash.jpeg",
+      "link": "/g/motox3m-spooky/"
     },
     {
       "title": "Moto X3M Winter",
-      "image": "/motox3m-winter/download.jpeg",
-      "link": "motox3m-winter/"
+      "image": "/g/motox3m-winter/download.jpeg",
+      "link": "/g/motox3m-winter/"
     },
     {
       "title": "Retro Bowl",
-      "image": "/retro-bowl/img/icon.jpg",
-      "link": "retro-bowl/"
+      "image": "/g/retro-bowl/img/icon.jpg",
+      "link": "/g/retro-bowl/"
     },
     {
       "title": "Super Mario 64",
-      "image": "/sm64/logo.png",
-      "link": "sm64/"
+      "image": "/g/sm64/logo.png",
+      "link": "/g/sm64/"
     },
     {
       "title": "Worlds Hardest Game 2",
-      "image": "/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
-      "link": "worlds-hardest-game-2/"
+      "image": "/g/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+      "link": "/g/worlds-hardest-game-2/"
     },
     {
       "title": "Hacker Typer",
-      "image": "/hackertype/logo192.png",
-      "link": "hackertype/"
+      "image": "/g/hackertype/logo192.png",
+      "link": "/g/hackertype/"
     },
     {
       "title": "JustFall.lol",
-      "image": "/just-fall/unnamed.png",
-      "link": "just-fall/"
+      "image": "/g/just-fall/unnamed.png",
+      "link": "/g/just-fall/"
     },
     {
       "title": "Champion Island",
-      "image": "/champion-island/logo.jpg",
-      "link": "champion-island/"
+      "image": "/g/champion-island/logo.jpg",
+      "link": "/g/champion-island/"
     },
     {
       "title": "Chrome Dino",
-      "image": "/chrome-dino/icons/icon-256.png",
-      "link": "chrome-dino/"
+      "image": "/g/chrome-dino/icons/icon-256.png",
+      "link": "/g/chrome-dino/"
     },
     {
       "title": "Cluster Rush",
-      "image": "/cluster-rush/splash.png",
-      "link": "cluster-rush/"
+      "image": "/g/cluster-rush/splash.png",
+      "link": "/g/cluster-rush/"
     },
     {
       "title": "Chill Radio",
-      "image": "/chill-radio/img/icon.png",
-      "link": "chill-radio/"
+      "image": "/g/chill-radio/img/icon.png",
+      "link": "/g/chill-radio/"
     },
     {
       "title": "Getting Over It",
-      "image": "/getting-over-it/Scratch%20Getting%20Over%20It.webp",
-      "link": "getting-over-it/"
+      "image": "/g/getting-over-it/Scratch%20Getting%20Over%20It.webp",
+      "link": "/g/getting-over-it/"
     },
     {
       "title": "Subway Surfers",
-      "image": "/subway-surfers/img/subwaysurfers.webp",
-      "link": "subway-surfers/"
+      "image": "/g/subway-surfers/img/subwaysurfers.webp",
+      "link": "/g/subway-surfers/"
     },
     {
       "title": "Particle Clicker",
-      "image": "/particle-clicker/particleclicker.png",
-      "link": "particle-clicker/"
+      "image": "/g/particle-clicker/particleclicker.png",
+      "link": "/g/particle-clicker/"
     },
     {
       "title": "Geometry Dash",
-      "image": "/geometry-dash/splash.PNG",
-      "link": "geometry-dash/"
+      "image": "/g/geometry-dash/splash.PNG",
+      "link": "/g/geometry-dash/"
     },
     {
       "title": "Doom",
-      "image": "/doom/splash.jpg",
-      "link": "doom/"
+      "image": "/g/doom/splash.jpg",
+      "link": "/g/doom/"
     },
     {
       "title": "Paper Minecraft",
-      "image": "/paper-minecraft/paper-minecraft.png",
-      "link": "paper-minecraft/"
+      "image": "/g/paper-minecraft/paper-minecraft.png",
+      "link": "/g/paper-minecraft/"
     },
     {
       "title": "Merge",
-      "image": "/merge/splash.png",
-      "link": "merge/"
+      "image": "/g/merge/splash.png",
+      "link": "/g/merge/"
     },
     {
       "title": "Rolling Ball",
-      "image": "/rolling-ball/rollingball.png",
-      "link": "rolling-ball/"
+      "image": "/g/rolling-ball/rollingball.png",
+      "link": "/g/rolling-ball/"
     },
     {
       "title": "Ball Blast",
-      "image": "/ball-blast/ballblast.png",
-      "link": "ball-blast/"
+      "image": "/g/ball-blast/ballblast.png",
+      "link": "/g/ball-blast/"
     },
     {
       "title": "Rabbit Samurai",
-      "image": "/rabbit-samurai/splash.png",
-      "link": "rabbit-samurai/"
+      "image": "/g/rabbit-samurai/splash.png",
+      "link": "/g/rabbit-samurai/"
     },
     {
       "title": "Rabbit Samurai 2",
-      "image": "/rabbit-samurai2/splash.png",
-      "link": "rabbit-samurai2/"
+      "image": "/g/rabbit-samurai2/splash.png",
+      "link": "/g/rabbit-samurai2/"
     },
     {
       "title": "Doodle Jump",
-      "image": "/doodle-jump/doodle.png",
-      "link": "doodle-jump/"
+      "image": "/g/doodle-jump/doodle.png",
+      "link": "/g/doodle-jump/"
     },
     {
       "title": "Crossy Road",
-      "image": "/crossyroad/crossyroad.png",
-      "link": "crossyroad/"
+      "image": "/g/crossyroad/crossyroad.png",
+      "link": "/g/crossyroad/"
     },
     {
       "title": "10 Minutes till Dawn",
-      "image": "/10-minutes-till-dawn/splash.png",
-      "link": "10-minutes-till-dawn/"
+      "image": "/g/10-minutes-till-dawn/splash.png",
+      "link": "/g/10-minutes-till-dawn/"
     },
     {
       "title": "Friday Night Funkin",
-      "image": "/fridaynightfunkin/fnf-icon.jpg",
-      "link": "fridaynightfunkin/"
+      "image": "/g/fridaynightfunkin/fnf-icon.jpg",
+      "link": "/g/fridaynightfunkin/"
     },
     {
       "title": "Riddle School 1",
-      "image": "/riddleschool/riddleschool.png",
-      "link": "riddleschool/"
+      "image": "/g/riddleschool/riddleschool.png",
+      "link": "/g/riddleschool/"
     },
     {
       "title": "Riddle School 2",
-      "image": "/riddleschool2/riddleschool2.png",
-      "link": "riddleschool2/"
+      "image": "/g/riddleschool2/riddleschool2.png",
+      "link": "/g/riddleschool2/"
     },
     {
       "title": "Riddle School 3",
-      "image": "/riddleschool3/riddleschool3.png",
-      "link": "riddleschool3/"
+      "image": "/g/riddleschool3/riddleschool3.png",
+      "link": "/g/riddleschool3/"
     },
     {
       "title": "Riddle School 4",
-      "image": "/riddleschool4/riddleschool4.png",
-      "link": "riddleschool4/"
+      "image": "/g/riddleschool4/riddleschool4.png",
+      "link": "/g/riddleschool4/"
     },
     {
       "title": "Riddle School 5",
-      "image": "/riddleschool5/riddleschool5.png",
-      "link": "riddleschool5/"
+      "image": "/g/riddleschool5/riddleschool5.png",
+      "link": "/g/riddleschool5/"
     }
 ]
