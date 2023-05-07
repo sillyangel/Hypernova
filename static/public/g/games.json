@@ -1,72 +1,302 @@
 [
-    {
-      "title": "Among Us",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
-      "link": "/g/among-us"
+  {
+    "title": "N-Gon",
+    "image": "/img/n-gonimg.png",
+    "link": "/g/n-gon/"
+  },
+  {
+    "title": "Cookie Clicker",
+    "image": "/img/cookieclicker.png",
+    "link": "/g/cookie-clicker/"
+  },
+  {
+    "title": "Idle Breakout",
+    "image": "/img/idlebreakout.png",
+    "link": "/g/idle-breakout/"
+  },
+  {
+    "title": "Among Us",
+    "image": "/img/amongus.jpg",
+    "link": "/g/among-us/"
+  },
+  {
+    "title": "1v1.lol",
+    "image": "/img/1v1.webp",
+    "link": "/g/1v1lol/"
+  },
+  {
+    "title": "Krunker",
+    "image": "/img/krunker.png",
+    "link": "/g/krunker/"
+  },
+  {
+      "title": "Zombs Royale",
+      "image": "/img/zombs.png",
+      "link": "/g/zombsroyale/"
     },
     {
-      "title": "1v1.lol",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
-      "link": "/g/1v1lol"
+      "title": "You're Jeff Bezos",
+      "image": "/img/jeffbezos.jpg",
+      "link": "/g/youarejeffbezos.html"
     },
     {
-      "title": "Minecraft Java",
-      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/minecraft.png",
-      "link": "/g/minecraft-18"
+      "title": "Tunnel Rush",
+      "image": "/img/tunnelrush.jpg",
+      "link": "tunnel-rush/"
     },
-      {
-        "title": "Tunnel Rush",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
-        "link": "/g/tunnel-rush"
-      },
-      {
-        "title": "Arena Scratch",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
-        "link": "/g/arena-scratch"
-      },
-      {
-        "title": "Cookie Clicker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/cookieclicker.png",
-        "link": "/g/cc"
-      },
-      {
-        "title": "Worlds Hardest Game",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
-        "link": "/g/worlds-hardest-game"
-      },
-      {
-        "title": "Backrooms",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg",
-        "link": "/g/backrooms"
-      },
-      {
-        "title": "Paper.io 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg",
-        "link": "/g/paperio2"
-      },
-      {
-        "title": "CS Go Clicker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
-        "link": "/g/csgo-clicker"
-      },
-      {
-        "title": "Shell Shockers",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png",
-        "link": "/g/shellshockers"
-      },
-      {
-        "title": "Storm the House 2",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg",
-        "link": "/g/stormthehouse2"
-      },
-      {
-        "title": "Super Mario 64",
-        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/super-mario-64/b/ba/Super-mario-64-1920x1080.jpg?width=640",
-        "link": "/g/sm64"
-      },
-      {
-        "title": "Subway Surfers",
-        "image": "https://static.wikia.nocookie.net/subwaysurf/images/4/4b/FirstAvatar.jpg/revision/latest/scale-to-width-down/180?cb=20180314123155",
-        "link": "/g/subway-surfers"
-      }
-  ]
+    {
+      "title": "Arena Scratch",
+      "image": "/img/arena.png",
+      "link": "arena-scratch/"
+    },
+    {
+      "title": "Flappy Bird",
+      "image": "/img/flappybird.png",
+      "link": "flappy"
+    },
+    {
+      "title": "Slope",
+      "image": "/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
+      "link": "slope/"
+    },
+    {
+      "title": "2048",
+      "image": "/img/2048_logo.svg.webp",
+      "link": "2048/"
+    },
+    {
+      "title": "Dino Game 3D",
+      "image": "/img/dino3d.webp",
+      "link": "dino3d"
+    },
+    {
+      "title": "Worlds Hardest Game",
+      "image": "/g/worlds-hardest-game/images/splash.jpg",
+      "link": "worlds-hardest-game/"
+    },
+    {
+      "title": "Backrooms",
+      "image": "/img/backroomsimg.jpg",
+      "link": "backrooms/"
+    },
+    {
+      "title": "Paper.io 2",
+      "image": "/img/paper.jpg",
+      "link": "paperio2/"
+    },
+    {
+      "title": "CS Go Clicker",
+      "image": "/img/csgo-case-clicker.jpg",
+      "link": "csgo-clicker/"
+    },
+    {
+      "title": "Shell Shockers",
+      "image": "/img/shellshock.png",
+      "link": "/g/shellshockers/"
+    },
+    {
+      "title": "Storm the House 2",
+      "image": "/img/storm-house-2.jpg",
+      "link": "/g/stormthehouse2/"
+    },
+    {
+      "title": "Duck Life 1",
+      "image": "/img/duck-life.jpg",
+      "link": "/g/ducklife1/"
+    },
+    {
+      "title": "Duck Life 2",
+      "image": "/img/ducklife2.jpeg",
+      "link": "/g/ducklife2/"
+    },
+    {
+      "title": "Duck Life 3",
+      "image": "/img/ducklife3.jpeg",
+      "link": "/g/ducklife3/"
+    },
+    {
+      "title": "Basketball Stars",
+      "image": "/g/basketball-stars/assets/images/basketball-stars.png",
+      "link": "/g/basketball-stars/"
+    },
+    {
+      "title": "BitLife",
+      "image": "/g/bitlife/splash.png",
+      "link": "/g/bitlife/"
+    },
+    {
+      "title": "Draw the Hill",
+      "image": "/g/draw-the-hill/icons/icon-512.png",
+      "link": "/g/draw-the-hill/"
+    },
+    {
+      "title": "Elastic Man",
+      "image": "/g/elasticman/elasticman.jpg",
+      "link": "/g/elasticman/"
+    },
+    {
+      "title": "Moto X3M",
+      "image": "/motox3m/splash.jpg",
+      "link": "motox3m/"
+    },
+    {
+      "title": "Moto X3M Pool",
+      "image": "/motox3m-pool/splash.jpg",
+      "link": "motox3m-pool/"
+    },
+    {
+      "title": "Moto X3M Spooky",
+      "image": "/motox3m-spooky/splash.jpeg",
+      "link": "motox3m-spooky/"
+    },
+    {
+      "title": "Moto X3M Winter",
+      "image": "/motox3m-winter/download.jpeg",
+      "link": "motox3m-winter/"
+    },
+    {
+      "title": "Retro Bowl",
+      "image": "/retro-bowl/img/icon.jpg",
+      "link": "retro-bowl/"
+    },
+    {
+      "title": "Super Mario 64",
+      "image": "/sm64/logo.png",
+      "link": "sm64/"
+    },
+    {
+      "title": "Worlds Hardest Game 2",
+      "image": "/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+      "link": "worlds-hardest-game-2/"
+    },
+    {
+      "title": "Hacker Typer",
+      "image": "/hackertype/logo192.png",
+      "link": "hackertype/"
+    },
+    {
+      "title": "JustFall.lol",
+      "image": "/just-fall/unnamed.png",
+      "link": "just-fall/"
+    },
+    {
+      "title": "Champion Island",
+      "image": "/champion-island/logo.jpg",
+      "link": "champion-island/"
+    },
+    {
+      "title": "Chrome Dino",
+      "image": "/chrome-dino/icons/icon-256.png",
+      "link": "chrome-dino/"
+    },
+    {
+      "title": "Cluster Rush",
+      "image": "/cluster-rush/splash.png",
+      "link": "cluster-rush/"
+    },
+    {
+      "title": "Chill Radio",
+      "image": "/chill-radio/img/icon.png",
+      "link": "chill-radio/"
+    },
+    {
+      "title": "Getting Over It",
+      "image": "/getting-over-it/Scratch%20Getting%20Over%20It.webp",
+      "link": "getting-over-it/"
+    },
+    {
+      "title": "Subway Surfers",
+      "image": "/subway-surfers/img/subwaysurfers.webp",
+      "link": "subway-surfers/"
+    },
+    {
+      "title": "Particle Clicker",
+      "image": "/particle-clicker/particleclicker.png",
+      "link": "particle-clicker/"
+    },
+    {
+      "title": "Geometry Dash",
+      "image": "/geometry-dash/splash.PNG",
+      "link": "geometry-dash/"
+    },
+    {
+      "title": "Doom",
+      "image": "/doom/splash.jpg",
+      "link": "doom/"
+    },
+    {
+      "title": "Paper Minecraft",
+      "image": "/paper-minecraft/paper-minecraft.png",
+      "link": "paper-minecraft/"
+    },
+    {
+      "title": "Merge",
+      "image": "/merge/splash.png",
+      "link": "merge/"
+    },
+    {
+      "title": "Rolling Ball",
+      "image": "/rolling-ball/rollingball.png",
+      "link": "rolling-ball/"
+    },
+    {
+      "title": "Ball Blast",
+      "image": "/ball-blast/ballblast.png",
+      "link": "ball-blast/"
+    },
+    {
+      "title": "Rabbit Samurai",
+      "image": "/rabbit-samurai/splash.png",
+      "link": "rabbit-samurai/"
+    },
+    {
+      "title": "Rabbit Samurai 2",
+      "image": "/rabbit-samurai2/splash.png",
+      "link": "rabbit-samurai2/"
+    },
+    {
+      "title": "Doodle Jump",
+      "image": "/doodle-jump/doodle.png",
+      "link": "doodle-jump/"
+    },
+    {
+      "title": "Crossy Road",
+      "image": "/crossyroad/crossyroad.png",
+      "link": "crossyroad/"
+    },
+    {
+      "title": "10 Minutes till Dawn",
+      "image": "/10-minutes-till-dawn/splash.png",
+      "link": "10-minutes-till-dawn/"
+    },
+    {
+      "title": "Friday Night Funkin",
+      "image": "/fridaynightfunkin/fnf-icon.jpg",
+      "link": "fridaynightfunkin/"
+    },
+    {
+      "title": "Riddle School 1",
+      "image": "/riddleschool/riddleschool.png",
+      "link": "riddleschool/"
+    },
+    {
+      "title": "Riddle School 2",
+      "image": "/riddleschool2/riddleschool2.png",
+      "link": "riddleschool2/"
+    },
+    {
+      "title": "Riddle School 3",
+      "image": "/riddleschool3/riddleschool3.png",
+      "link": "riddleschool3/"
+    },
+    {
+      "title": "Riddle School 4",
+      "image": "/riddleschool4/riddleschool4.png",
+      "link": "riddleschool4/"
+    },
+    {
+      "title": "Riddle School 5",
+      "image": "/riddleschool5/riddleschool5.png",
+      "link": "riddleschool5/"
+    }
+]
