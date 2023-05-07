@@ -228,7 +228,7 @@ html {
     transition: .3s;
     z-index: 0;
     height: auto;
-    width: 200px;
+    width: 150px;
   }
 
   .game:hover {
