@@ -1,4 +1,5 @@
-var password = prompt("Password of the Week", "huh?");
+// start
+
 var bootedoff = "https://google.com/"
 var cookieName = "myCookie";
 var cookieValue = "true";
@@ -15,7 +16,7 @@ if (document.cookie.indexOf(cookieName) == -1) {
 }
 
 function checkpassword(passcode) {
-  if (passcode == "Ygsin") {
+  if (passcode == "ygsin") {
     // Set cookie and redirect to success page
     document.cookie = cookieName + "=" + cookieValue + ";expires=" + cookieExpiration.toUTCString();
   } else {
@@ -23,3 +24,4 @@ function checkpassword(passcode) {
     window.location.href = bootedoff;
   }
 }
+
