@@ -16,7 +16,7 @@ if (document.cookie.indexOf(cookieName) == -1) {
 }
 
 function checkpassword(passcode) {
-  if (passcode == "ygsin") {
+  if (passcode == "wcords") {
     // Set cookie and redirect to success page
     document.cookie = cookieName + "=" + cookieValue + ";expires=" + cookieExpiration.toUTCString();
   } else {
