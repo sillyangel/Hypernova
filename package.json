@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "instance",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
